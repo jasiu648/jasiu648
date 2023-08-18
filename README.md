@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Jakub Jasiński. I'm from Poland and I study Computer Science on the Warsaw University of Technology.
 - 👀 I’m interested in Computer Science, E-sport and Football.
-- 🌱 I’m currently learning C#, C, C++, SQL.
-- 💞️ I’m looking for job in IT or other opportunities to improve my skills and qualifications/
+- 🌱 I’m currently employed as a .NET Developer in KMD Poland.
 - 📫 My e-mail address: jasiu648@gmail.com
 
 <!---
