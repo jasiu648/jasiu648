@@ -1,6 +1,6 @@
 # 🚀 Jakub Jasiński | Full-Stack Software Engineer
 
-> Łączę głęboką wiedzę teorii z najnowszymi technologiami AI. Pasja do kodowania, szczegółów i komunikacji.
+> I combine deep theoretical knowledge with cutting-edge AI technologies. Passionate about coding, attention to detail, and communication.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jasinskijakub2000/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/jasiu648/)
@@ -8,7 +8,7 @@
 
 ---
 
-## 🎯 Co robię
+## 🎯 What I Do
 
 - 🖥️ **Backend Engineer** — ASP.NET Core, REST APIs, Cloud (AWS/Azure)
 - 🧠 **ML Enthusiast** — NLP, Reinforcement Learning, Data Science
